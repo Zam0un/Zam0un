@@ -2,7 +2,7 @@
 
 - 🔭 Aspirante à desenvolvedor web full-stack, por enquanto se especializando em front-end...
 - 🌱 Estudando atualmente HTML5,CSS3 e JavaScript  ...
-- 
+- #Tryber! 
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Zam0un-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
