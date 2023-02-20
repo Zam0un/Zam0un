@@ -25,7 +25,7 @@ I am very communicative and I love to learn something new. I am currently lookin
   ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
   
-  **Socials Medias**
+  **Social Media**
   
   <div>
   <a href="https://www.instagram.com/manoel.limajr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
