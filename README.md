@@ -1,9 +1,12 @@
-### Olá, me chamo Manoel Vieira Lima Junior 👋
+# Hello, my name is Manoel Lima!
 
-- 🔭 Aspirante à desenvolvedor web full-stack...
-- #Tryber! 
+## Full Stack Web Developer
 
-  **Tecnologias e ferramentas**
+I love technology and everything that needs a computer to do it. I was majoring in electrical engineering when I decided to study web development, and even then I'm more and more passionate about the field.
+
+I am very communicative and I love to learn something new. I am currently looking for a job as a developer in a company that inspires me to do my best and that can grow together as a team
+
+  **Technologies and Tools**
 
   ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
   ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -16,12 +19,13 @@
   ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
   ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-  <!--![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-  // ![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
-  // ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-  // ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) -->
-  <!-- ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white) -->
-  **Me encontre**
+  ![Python Badge](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
+  ![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=expressjs&logoColor=white)
+  ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![Sequelize Badge](https://img.shields.io/badge/-Sequelize-357bbe?style=flat-square&logo=sequelize&logoColor=white)
+  
+  **Socials Medias**
   
   <div>
   <a href="https://www.instagram.com/manoel.limajr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
