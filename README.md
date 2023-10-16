@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer
 
-I love technology and everything that needs a computer to do it. I was majoring in electrical engineering when I decided to study web development, and even then I'm more and more passionate about the field.
+I love technology and everything that needs a computer to do it. I decided to study web development, and even then I'm more and more passionate about the field.
 
 I am very communicative and I love to learn something new. I am currently looking for a job as a developer in a company that can inspires me to do my best and that can grow together as a team.
 
